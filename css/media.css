@@ -1,0 +1,13 @@
+@media(max-width:480px){
+    .section_1{
+        width: 100%;
+        height: 956px;
+    }
+.section1_text{
+    height: 152px;
+        padding: 637px 56px 91px 56px;
+        font-size: 24px;
+        font-weight: 700;
+        margin-top: 713px;
+}
+}

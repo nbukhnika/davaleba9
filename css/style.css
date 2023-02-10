@@ -132,3 +132,43 @@ gap: 67px;
 }
 
 /* footer */
+.footer_div{
+   max-width: 1440px;
+   width: 100%;
+background-color: #393838;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.footer_logo{
+    /* border: 5px solid red; */
+  width: 97px;
+padding: 83px 0px 83px 60px;
+}
+
+.footer_icons{
+    gap: 37px;
+    padding: 83px 144px 123px 0px;
+}
+.envelope{
+    width: 70px;
+    color: #F2C00F;
+}
+
+.instagram, .facebook{
+    width: 70px;
+    color: #F8F8F8;
+}
+
+.envelope:hover{
+    cursor: pointer;
+    color: deepskyblue;
+}
+.instagram:hover{
+    cursor: pointer;
+    color: deepskyblue;
+}
+.facebook:hover{
+    cursor: pointer;
+    color: deepskyblue;
+}
