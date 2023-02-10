@@ -27,6 +27,10 @@ header{
 	align-items: center;
 
 }
+
+.fa-bars{
+    display: none;
+}
 ul{
     /* border: 5px solid white; */
    color: #ffffff; 
