@@ -94,3 +94,41 @@ gap: 67px;
 	cursor: auto;
 	box-shadow: 20px 20px 20px rgb(94, 94, 196);
 }
+
+
+/* article */
+.article {
+	width: 1440px;
+    height: 857px;
+	background-color: #2C2929;
+}
+
+.article_title{
+    color: #ffffff;
+    padding: 33px 145px 0px 140px;
+    font-size: 64px;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+}
+
+.imgtext_div{
+    display: flex;
+    padding: 106px 145px 105px 140px;
+    gap: 3px;
+}
+.article_img{
+    width:578px ;
+    height: 557px;
+    
+}
+
+.article_text{
+    width: 573px;
+    color: #ffffff;
+    font-size: 36px;
+    background-color: #8E8B8B;
+    padding: 70px 52px 70px 52px;
+}
+
+/* footer */
